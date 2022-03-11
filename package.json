@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "email-validator": "^2.0.4",
+    "md5": "^2.3.0",
+    "sqlite": "^4.0.25",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "@babel/helper-compilation-targets": "^7.16.7"
+  }
+}
